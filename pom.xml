@@ -35,11 +35,7 @@
     <scope>test</scope>
 </dependency>
 
-<dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>poi</artifactId>
-    <version>3.11</version>
-</dependency>
+
 
     
   </dependencies>
